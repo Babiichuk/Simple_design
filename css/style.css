@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.promo {
+  background: url(../img/bg/Promo_bg.png) center center/cover no-repeat;
+}
